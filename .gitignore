@@ -1,0 +1,19 @@
+# 编译文件
+*.exe
+*.o
+*.a
+bin/
+obj/
+build/
+
+# IDE文件
+.vscode/
+.idea/
+*.dev
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
